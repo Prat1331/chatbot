@@ -29,7 +29,7 @@ This is a simple chatbot application built using Tkinter and the Wikipedia API.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Chatbot-Project.git
+   https://github.com/Prat1331/chatbot.git
     ```
 
 2. Navigate to the project directory:
